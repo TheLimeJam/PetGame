@@ -1,7 +1,7 @@
 # PetGame
 Repository for working on pet game
 virtual pet game 
-meditation style game
+meditation style game   
 open the game
 name your pet
 pet walks on screen
